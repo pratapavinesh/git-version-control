@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 something should be written
+=======
+somthing in this
+>>>>>>> 86d871ef6ad5fabb230c81f3b24ebfe9b97d3e89
