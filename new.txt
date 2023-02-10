@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-teri aisi ki taisi
-=======
-teri meri
->>>>>>> featurey
